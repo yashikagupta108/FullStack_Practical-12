@@ -1,0 +1,57 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+table
+{
+    border:2px grey solid;
+}
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+th,td
+{
+    padding: 10px;
+    border-bottom: 2px grey solid;
+}
+i
+{
+    padding: 10px;
+}
+.pract a
+{
+    text-decoration: none;
+    color:cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.heading
+{
+    text-align: center;
+    font-size: 30px;
+    background-color: rgb(106, 165, 189);
+}
+.heading :hover
+{
+    background-color: rgb(106, 165, 189);;
+}
+a
+{
+    text-decoration: none;
+    color:grey;
+}
+a :hover
+{
+    color:rgb(48, 92, 173);
+}
+table tr:hover
+{
+    background-color: rgb(230, 225, 166);
+}
+table tr:nth-child(2)
+{
+    background-color: white;
+}
